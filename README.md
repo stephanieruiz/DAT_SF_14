@@ -32,8 +32,12 @@ Week | Tuesday | Thursday
  4 | 5/19: Logistic Regression <br>**HW2 Due** | 5/21: K-Means Clustering <br>**Project Milestone:** [Elevator Pitch](project#may-21-final-project-elevator-pitch)
 =======
  3 | 5/12: [Naive Bayes Classification](slides/lec05.pdf) <br>**HW1 Due** | 5/14: [Regression and Regularization](slides/lec06.pdf)
+<<<<<<< HEAD
  4 | 5/19: Logistic Regression <br>**HW2 Due** | 5/21: K-Means Clustering <br>**Project Milestone (PM1):** [Elevator Pitch](project#may-21-final-project-elevator-pitch)
 >>>>>>> 8779922e1d51fa0ef3b4ddd2013461baabfb7db2
+=======
+ 4 | 5/19: [Logistic Regression](slides/lec07.pdf) <br>**HW2 Due** | 5/21: [K-Means Clustering](slides/lec08.pdf) <br>**Project Milestone (PM1):** [Elevator Pitch](project#may-21-final-project-elevator-pitch)
+>>>>>>> 6ae1a8b508a77ac72b88ffc6786e1640431e8f94
  5 | 5/26: Decision Trees and Random Forests (1)  | 5/28: Decision Trees and Random Forests (2)
  6 | 6/02: Ensemble Techniques <br>**Project Milestone (PM2):** [Data Ready](project#june-2-data-ready) | 6/04: Support Vector Machines
  7 | 6/09: Dimensionality Reduction  | 6/11: ROC Curves, AUC, & Imbalanced Classes
@@ -50,3 +54,18 @@ HW | Topics | Dataset | Assigned | Due
 1 | [Data Exploration](homework/hw1) | [titanic](hw1/titanic.csv) | 5/05 | **5/12**
 2 | [KNN & Cross Validation](homework/hw2) | [iris](http://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html) | 5/07 | **5/19**
 PM1 | [Elevator Pitch](project#may-21-final-project-elevator-pitch) | project | 5/07 | **5/21**
+
+
+### Resources
+
+#### Working in the terminal
+- [Data Science at the Command Line](http://shop.oreilly.com/product/0636920032823.do)
+- [Learning Bash Scripting For Beginners](http://www.cyberciti.biz/open-source/learning-bash-scripting-for-beginners/)
+- [Advanced Bash Scripting Guide](http://www.tldp.org/LDP/abs/html/)
+
+#### Statistical Learning Theory
+- [Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
+
+#### Algorithms
+- [Top 10 Data Mining Algorithms in Plain English](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
+
