@@ -37,8 +37,12 @@ Week | Tuesday | Thursday
 >>>>>>> 8779922e1d51fa0ef3b4ddd2013461baabfb7db2
 =======
  4 | 5/19: [Logistic Regression](slides/lec07.pdf) <br>**HW2 Due** | 5/21: [K-Means Clustering](slides/lec08.pdf) <br>**Project Milestone (PM1):** [Elevator Pitch](project#may-21-final-project-elevator-pitch)
+<<<<<<< HEAD
 >>>>>>> 6ae1a8b508a77ac72b88ffc6786e1640431e8f94
  5 | 5/26: Decision Trees and Random Forests (1)  | 5/28: Decision Trees and Random Forests (2)
+=======
+ 5 | 5/26: [Clustering & Decision Trees](slides/lec09.pdf)  | 5/28: Tree-based Classifiers 
+>>>>>>> a3c6a96851daee9ea32cb2fd356c62aae6f74550
  6 | 6/02: Ensemble Techniques <br>**Project Milestone (PM2):** [Data Ready](project#june-2-data-ready) | 6/04: Support Vector Machines
  7 | 6/09: Dimensionality Reduction  | 6/11: ROC Curves, AUC, & Imbalanced Classes
  8 | 6/16: Recommendation Systems <br>**Project Milestone (PM3):** [First Draft Due](project#june-16-first-draft-due-before-class)  | 6/18: Database Technologies
@@ -68,4 +72,7 @@ PM1 | [Elevator Pitch](project#may-21-final-project-elevator-pitch) | project | 
 
 #### Algorithms
 - [Top 10 Data Mining Algorithms in Plain English](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
+
+#### Python
+- [Data Science from Scratch](http://shop.oreilly.com/product/0636920033400.do)
 
