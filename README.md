@@ -31,8 +31,12 @@ Week | Tuesday | Thursday
  7 | 6/09: [Dimensionality Reduction](slides/lec13.pdf) <br>**HW3 Due**  | 6/11: ROC Curves, AUC, & Imbalanced Classes
 =======
  7 | 6/09: [Dimensionality Reduction](slides/lec13.pdf) <br>**HW3 Due**  | 6/11: [Imbalanced Classes and Evaluation Metrics](slides/lec14.pdf)
+<<<<<<< HEAD
 >>>>>>> 571a187f0f821897774193fdb90aa2e27d1090df
  8 | 6/16: Recommendation Systems <br>**Project Milestone (PM3):** [First Draft Due](project#june-16-first-draft-due-before-class)  | 6/18: Database Technologies
+=======
+ 8 | 6/16: [Recommendation Systems](slides/lec15.pdf) <br>**Project Milestone (PM3):** [First Draft Due](project#june-16-first-draft-due-before-class)  | 6/18: Database Technologies
+>>>>>>> 8dcd35d01d16795fcbf90df8e4dbe8a6781f0f99
  9 | 6/23: Final Project Work Session & Peer Feedback <br>**Project Milestone (PM4):** [Peer Feedback Due](project/peer_review_guidelines.md)  | 6/25: Map-Reduce & Hadoop
 10 | 6/30: Distributed Data Processing (Spark)  | 7/02: Network Analysis
 11 | 7/07: Project Presentations Day 1 <br>**Project Milestone (PM5):** Presentation   | 7/09: Project Presentations Day 2 <br>**Project Milestone (PM5):** Presentation & Paper
